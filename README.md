@@ -27,6 +27,6 @@ Currently, I spend most of my time building home labs, reviewing logs, and confi
 
 ## 📫 Contact
 - GitHub: [github.com/adrionjones](https://github.com/adrionjones)  
-- LinkedIn: [linkedin.com/in/adrionjones](https://linkedin.com/in/adrionjones)  
+- LinkedIn: [linkedin.com/in/adrionjones](https://linkedin.com/in/adrion-jones-948089362)  
 - Email: adrionjones229@gmail.com
 
